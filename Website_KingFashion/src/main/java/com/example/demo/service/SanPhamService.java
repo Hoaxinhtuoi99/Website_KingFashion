@@ -12,6 +12,6 @@ public interface SanPhamService {
     void add(SanPham sanPham);
 
     SanPham detail(UUID id);
-
+//aaaa
     void delete(UUID id);
 }
